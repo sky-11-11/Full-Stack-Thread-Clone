@@ -19,7 +19,7 @@
 
 ## <a name="introduction">🤖 Introduction</a>
 
-Build a full stack Threads clone using Next.js 14+ with a redesigned look transformed from a Figma design, user interaction to community management, technical implementation, and various features, including nested deep comments, notifications, real-time-search, and more.  
+ Hi I'm Gaurav Rawat and i have build a full stack Threads clone using Next.js 14+ with a redesigned look transformed from a Figma design, user interaction to community management, technical implementation, and various features, including nested deep comments, notifications, real-time-search, and more.  
 
 If you're getting started and need assistance or face any bugs, connect with me gaurawat191@gmail.com.
 
